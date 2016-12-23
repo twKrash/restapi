@@ -33,4 +33,5 @@ project/boot/
 .cache
 
 /.idea/
-/project/
+/project/project/
+/project/target/
